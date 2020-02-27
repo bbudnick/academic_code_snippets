@@ -1,4 +1,4 @@
-//Liam Rotchford and Brita Hill
+//Liam R**** and Brita Hill
 //Numerical Computation Fall 2019
 //This program reduces an n x n+1 matrix to Reduced Row Echelon Form (RREF) 
 //using Gaussian Elimination. This algorithm employs partial pivoting to ensure 
