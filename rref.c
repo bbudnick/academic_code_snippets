@@ -76,7 +76,7 @@ int gaussian_elimination(double m[M][M+1], int n, double x[M])
     }
   }
 
-  printf("\n\n\n Upper Right Triangle Form: \n");
+  printf("\n\n\no Upper Right Triangle Form: \n");
   print_matrix(m, n);
   
   // Step 2: Now do the back substitution, leaving the solution in the array 'x'
@@ -124,7 +124,7 @@ int main()
    }
 
    // Output the original form 
-   printf("\n\n\n Original Form: \n");
+   printf("\n\n\no Original Form: \n");
    print_matrix(m,n) ;
 
    s =  gaussian_elimination(m, n, x) ;
